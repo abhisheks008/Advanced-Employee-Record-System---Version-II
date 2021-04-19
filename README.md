@@ -19,7 +19,7 @@ Also it can do the following jobs automatically with the help of the Admin of th
 These are the problem statements that we are solving using the code base which is implemented in JAVA.
 
 
-### MMethods and Algorithms :
+### Methods and Algorithms :
 To access this project the basic medium will be JAVA Netbeans and XAMPP control panel (any other IDEs will also work on this project). We have to set two environments for this project to successful. Firstly, we have to create a database in which we will store all the information of the employees and then we have to make it secure and compact. Secondly, we have to make the java front end for the web app which will provide the GUI of the project and also this Java files will make the queries to the database and based on that the details will be shown and hence evaluated  by the admin. 
 
 Now the main thing is how to connect with the Java files with the database called as Employee. For that we need JDBC driver for MySQL which will make the connection in between the Java files and the database.
