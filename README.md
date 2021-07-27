@@ -1,6 +1,5 @@
-# Advanced Employee Record System [Version-II]
-Developed by, Abhishek Sharma, UEMK, CSE, 2021 : @abhisheks008
-*******************************************************************************
+# Advanced Employee Record System - A Project using Java and DBMS
+
 <img src = "https://github.com/abhisheks008/Advanced-Employee-Record-System---Version-II/blob/main/Screenshots/e_front.png">
 
 **************************************************************************
@@ -75,9 +74,25 @@ We would like to thank all the sources which help us in the project,
 •	MySQL JDBC Driver and connector 8.2 version (.jar file) : https://dev.mysql.com/downloads/connector/j/
 
 ******************************************************************
+<h2>✔Developer of this Project</h2>
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
+    </tr>
+  </table>
+  
+***************************************************************************
+<h2>🏫This Repository is in association with UEM Kolkata, Second Year, Fourth Semester</h2>
+<a href = "https://uem.edu.in/uem-kolkata/"><img src="https://uem.edu.in/app/themes/iem-group-wp-theme/resources/logo.png" width="200px" alt=""/> </a>
 
-### If this repository helps you in your work, then show some :heart: by Starring :star: the repository!
+**************************************************************************
+<h2>📝Project Report</h2>  
 
-#### Thank You!
+<a href = "https://github.com/abhisheks008/Advanced-Employee-Record-System---Version-II/blob/main/Employee%20Record%20System%20%20-%20-%20A%20project%20using%20DBMS%20and%20Java%20-%20I%20-%201st%20Group%20-%202021.pdf"><img src="https://www.projectengineer.net/wp-content/uploads/2019/04/project-report.png" width="175px" height = "150px" alt=""/></a>
 
-## An Abhishek Sharma Product, 2021, @abhisheks008
+*****************************************************************************
+
+### © 2021 Abhishek Sharma
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+
+## Thank You! Show some :heart: if you like it!
