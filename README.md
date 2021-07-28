@@ -2,7 +2,7 @@
 
 <img src = "https://github.com/abhisheks008/Advanced-Employee-Record-System---Version-II/blob/main/Screenshots/e_front.png">
 
-************************************************************************
+**************************************************************************
 
 ### Abstract of the Project Work :
 Employee Record System using JAVA and Database Management Systems is one the smartest and innovative projects in terms of automating the record system of various organizations and institutions. In this Employee Record System we have implemented a code base which will store the data of the employees of an organization or any other institution and have created the front end with JAVA so that it looks more effective and attractive. Storing information and records of the employees have been a tough work for manual users, hence to make it simple this JAVA empowered system is imposed to make the tough job simple. 
